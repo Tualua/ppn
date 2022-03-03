@@ -1,5 +1,5 @@
-Persona Protected Network
-=========================
+Personal Protected Network
+=========================+
 
 .. toctree::
     :maxdepth: 2
