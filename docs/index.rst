@@ -5,5 +5,6 @@ Personal Protected Network
     :maxdepth: 2
     :caption: Содержание
 
+    cloud
     server
     client
