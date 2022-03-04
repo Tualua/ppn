@@ -8,3 +8,9 @@ Personal Protected Network
     cloud
     server
     client
+
+Todo
+====
+ 1. Клиенты
+ 2. Ubuntu
+ 3. Облака
