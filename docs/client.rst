@@ -4,6 +4,10 @@
 1. v2rayN
 =========
 
+Servers -> Add [VLESS] Server
+
+.. image:: images/v2rayn1.png
+
 2. Shadowrocket (iPhone)
 ========================
 
