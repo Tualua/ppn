@@ -42,6 +42,9 @@ https://github.com/2dust/v2rayN/releases
 
 .. image:: images/v2rayn1.png
 
+После всех настроек, включаем. Нажимаем на значок программы в области уведомлений правой кнопкой мыши и выбираем **Http Proxy** -> **Set system proxy**
+
+
 2. Shadowrocket (iPhone)
 ========================
 
