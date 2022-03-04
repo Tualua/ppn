@@ -54,3 +54,14 @@ https://github.com/2dust/v2rayN/releases
 4. v2rayNG
 ==========
 
+Доступен в Google Play
+
+https://play.google.com/store/apps/details?id=com.v2ray.ang
+
+Доступен на github
+
+https://github.com/2dust/v2rayNG/releases
+
+Настраивается, в принципе, точно так же как и v2rayN, можно скопировать ссылку на сервер из v2rayN и переслать ее на телефон и вставить в v2rayNG
+
+.. image:: images/v2rayn8.png
